@@ -1,0 +1,30 @@
+body {
+    background-color: #1e3799;
+    margin: 0px;
+}
+
+div.bar{
+    background-color: #0c2461;
+    max-width: 100vw;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue    ;
+}
+
+ul#nav{
+    display: flex;
+    width: 300px;
+}
+
+li{
+    list-style: none;
+    text-align: right;
+    padding: 5px;
+}
+
+h1#titulo {
+    color: aliceblue;
+}

@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+
+}
+
+div.bar{
+    background-color: #0c2461;
+    max-width: 100vw;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue    ;
+}
+
+ul#nav{
+    display: flex;
+    width: 300px;
+}
+
+li{
+    list-style: none;
+    text-align: right;
+    padding: 5px;
+}
+
+h1#titulo {
+    color: aliceblue;
+}
+
+div#anuncio{
+    box-shadow: 10px 10px 8px #888888;
+    margin: 20px;
+    padding: 10px;
+    background-color: #dfe6e9;
+    width: 300px;
+    border-radius: 7px; 
+}
+
+img{
+    height: 300px;
+}
+
+h3#ad-title{
+    color: red;
+    text-transform: uppercase;
+}
